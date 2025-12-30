@@ -1,0 +1,2 @@
+1) pip install "fastapi[standard]"
+2) To run program fastapi dev main.py
