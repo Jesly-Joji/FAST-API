@@ -10,8 +10,8 @@ To use the fastapi command, please install "fastapi[standard]":
 Traceback (most recent call last):
   File "<frozen runpy>", line 198, in _run_module_as_main
   File "<frozen runpy>", line 88, in _run_code
-  File "C:\Users\jesly\OneDrive\Desktop\Infosys Springboard\Milestone 2\UI\myenv\Scripts\fastapi.exe\__main__.py", line 7, in <module>
-  File "C:\Users\jesly\OneDrive\Desktop\Infosys Springboard\Milestone 2\UI\myenv\Lib\site-packages\fastapi\cli.py", line 12, in main
+  File "C:\Users\jesly\OneDrive\Desktop\UI\myenv\Scripts\fastapi.exe\__main__.py", line 7, in <module>
+  File "C:\Users\jesly\OneDrive\Desktop\UI\myenv\Lib\site-packages\fastapi\cli.py", line 12, in main
     raise RuntimeError(message)  # noqa: B904
     ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 RuntimeError: To use the fastapi command, please install "fastapi[standard]":
